@@ -88,27 +88,27 @@ $dont_allow = array(".","..","index.html","pagination","library","libchart","gam
 
 # Database Settings (BE ADVISED: MAKE NEW USERNAMES AND PASSWORDS FOR THE GAMECP, DO NOT USE YOUR MASTER)
 $mssql = array();
-$mssql['user']['host'] = '144.217.220.141';
+$mssql['user']['host'] = '144.217.220.141:1433:1433';
 $mssql['user']['db'] = 'RF_User';
 $mssql['user']['username'] = 'sa';
 $mssql['user']['password'] = 'RFonline123';
 
-$mssql['data']['host'] = '144.217.220.141';
+$mssql['data']['host'] = '144.217.220.141:1433';
 $mssql['data']['db'] = 'RF_World';
 $mssql['data']['username'] = 'sa'; // If user has only 'read' access
 $mssql['data']['password'] = 'RFonline123'; // Item Edit and Delete characters wont work
 
-$mssql['gamecp']['host'] = '144.217.220.141';
+$mssql['gamecp']['host'] = '144.217.220.141:1433';
 $mssql['gamecp']['db'] = 'RF_GameCP';
 $mssql['gamecp']['username'] = 'sa';
 $mssql['gamecp']['password'] = 'RFonline123';
 
-$mssql['items']['host'] = '144.217.220.141';
+$mssql['items']['host'] = '144.217.220.141:1433';
 $mssql['items']['db'] = 'RF_ItemsDB';
 $mssql['items']['username'] = 'sa';
 $mssql['items']['password'] = 'RFonline123';
 
-$mssql['cash']['host'] = '144.217.220.141';
+$mssql['cash']['host'] = '144.217.220.141:1433';
 $mssql['cash']['db'] = 'BILLING';
 $mssql['cash']['username'] = 'sa';
 $mssql['cash']['password'] = 'RFonline123';
