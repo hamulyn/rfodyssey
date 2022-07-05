@@ -1,0 +1,24 @@
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 50%;
+    font-family: inherit;
+    vertical-align: baseline;
+}
+body { background: #090b0a }
+#container>table>tbody>tr>td>table:first-child+table { margin: auto }
+#container>table>tbody>tr>td>table:first-child+table>tbody>tr>td>div>p.smallfont { color: #fff }
+#container>table>tbody>tr>td>table:first-child+table>tbody>tr>td>div>p.smallfont a {
+    color: #fff;
+    text-decoration: none;
+}
+.panel {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    border: 1px solid #ffffff;
+}

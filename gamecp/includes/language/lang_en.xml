@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<language>
+    <translations>
+        <string key="no_permission">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">Sorry, you do not have permission to access this page</p>]]></string>
+        <string key="invalid_page_load">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">This is an invalid load of this page, please contact the administrator</p>]]></string>
+        <string key="invalid_page_id">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">You have entered an invalid page ID</p>]]></string>
+        <string key="page_not_found">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">The page you have requested cannot be found</p>]]></string>
+        <string key="must_be_logged_in_view">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">You must log in to view this page</p>]]></string>
+        <string key="invalid_serial">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">Invalid serial has been provided</p>]]></string>
+        <string key="no_such_item">
+            <![CDATA[<p style="text-align: center; font-weight: bold;">No such item found in the database.</p>]]></string>
+
+        <string key="register_title"><![CDATA[Register]]></string>
+        <string key="invalid_action"><![CDATA[Sorry, you have provided an invalid action]]></string>
+        <string key="email_subject"><![CDATA[No-Reply: User Registration Verification]]></string>
+        <string key="thank_you"><![CDATA[Thank You]]></string>
+        <string key="username"><![CDATA[Username]]></string>
+        <string key="password"><![CDATA[Password]]></string>
+        <string key="confirm_password"><![CDATA[Confirm Password]]></string>
+        <string key="confirm_user"><![CDATA[Confirm User]]></string>
+        <string key="confirm_key"><![CDATA[Confirm Key]]></string>
+        <string key="email"><![CDATA[E-Mail Address]]></string>
+        <string key="confirm_email"><![CDATA[Confirm E-Mail Address]]></string>
+        <string key="registration_success_title">
+            <![CDATA[Success! You have completed the registration process]]></string>
+        <string key="verify_email_title"><![CDATA[E-Mail Verification Required]]></string>
+        <string key="successfully_registered_account_short">
+            <![CDATA[You're account has been successfully registered."]]></string>
+
+        <string key="verify_email_message">
+            <![CDATA[An e-mail has been sent to your account with a link to confirm your account. Please click the link to finish your registration and choose a password.]]></string>
+        <string key="registration_success">
+            <![CDATA[You have now successfully completed your account registration. You may now log in using the username and password you choose during this registration process.]]></string>
+
+        <string key="welcome_message_email_confirm"><![CDATA[
+Welcome to the user registration page.<br/>
+Please fill out the information below. Once you verify your e-mail address you will be asked to select a password for your account<br/>
+<br/>
+Username and passwords are case-sensitive
+]]></string>
+
+        <string key="welcome_message_no_email_confirm"><![CDATA[
+Welcome to the user registration page.<br/>
+<br/>
+No e-mail confirmation is required.
+<br/>
+Username and passwords are case-sensitive
+]]></string>
+
+
+        <string key="choose_password"><![CDATA[
+<h2>Confirm E-Mail/Choose Password</h2>
+<p>This page will confirm your account and also allow you to set a password for your account. Please fill out the form below. If your confirmation key matches you will successfully complete the registration process</p>
+]]></string>
+
+        <string key="email_message"><![CDATA[
+Hello %username%
+Thank you for registering. Please link the link below (or copy it to your address bar) to complete the registration process and choose your account password:
+
+Username: %username%
+Confirmation URL: %confirm_url%
+
+Thank you
+]]></string>
+
+    </translations>
+</language>

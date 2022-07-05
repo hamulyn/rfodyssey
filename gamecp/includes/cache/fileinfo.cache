@@ -1,0 +1,56 @@
+admin_banuser.php,Support,Manage Bans
+admin_concil.php,Server Admin,Manage Concil
+admin_delete_item.php,Server Admin,Delete Item
+admin_edit_character.php,Support,Edit Character
+admin_edit_inventory.php,Server Admin,Edit Inventory
+admin_gamecp_logs.php,Logs,Game CP Logs
+admin_give_item.php,Support,Give Item
+admin_gmaccounts.php,Server Admin,GM Accounts
+admin_maillogs.php,Logs,Mail Logs
+admin_manage_credits.php,Item Shop Admin,ADD Cash Shop
+admin_manage_items.php,Item Shop,Manage Items
+admin_manage_items_cat.php,Item Shop,Manage Categories
+admin_manage_premium.php,Item Shop Admin,ADD Premium
+admin_manage_redeem.php,Logs,Manage Redeem Logs
+admin_manage_users.php,Item Shop Admin,ADD Game Point
+admin_manage_users_free.php,Item Shop Admin,ADD Vote Point
+admin_versioncheck.php,Super Admin,Check Version
+admin_vote_logs.php,Logs,Vote Logs
+admin_vote_sites.php,Server Admin,Vote Sites
+all_chipwars.php,Server Stats,CW Stats
+all_player_list.php,Server Stats,Player List
+all_serverstats.php,Server Stats,Server Stats
+all_userbanlist.php,Server Stats,Banned Users
+superadmin_configuration.php,Super Admin,<b>Configuration</b>
+superadmin_mass_delete.php,Super Admin,Mass Delete Items
+superadmin_permissions.php,Super Admin,<b>Permissions</b>
+support_bankitemsearch.php,Support,Bank Search
+support_changename.php,Logs,Name Changes Logs
+support_charlookup.php,Support,Char Lookup
+support_desk.php,Support,User Information
+support_equipmentsearch.php,Support,Equipment Search
+support_guild_search.php,Support,Guild Search
+support_inventory.php,Support,Inventory Search
+support_items_list.php,Support,Items List
+support_item_charge.php,Logs,Rented Items Logs
+support_list_guilds.php,Support,Guild List
+support_logoutlogs.php,Logs,Logout Logs
+support_monsters_list.php,Support,Monster List
+support_newaccounts.php,Support,New Accounts
+user_accountinfo.php,Account,Account Info
+user_buy_cashcoin.php,Account,Purchase Cash Coin
+user_changecharname.php,Account,Change Char Name
+user_changeemail.php,Account,Change Email
+user_changepassword.php,Account,Change Password
+user_conta.php,Donations,Deposito Direto em Conta
+user_convert_points.php,Donations,Convert GP to Gold Point
+user_donations.php,Donations,Donate for Game Point Credit Card (USD)
+user_donations_brl.php,Donations,Donate for Game Point Credit Card(BRL)
+user_donations_php.php,Donations,Donate for Game Point Credit Card (PHP)
+user_equipmentsearch.php,Account,Equipment Search
+user_inventory.php,Account,Inventory Search
+user_itemshop.php,Item Shop,Buy Item Shop
+user_items_redeemed.php,Item Shop,Item Redeem Logs
+user_rented_items.php,Item Shop,Buy Rented Items
+user_vote.php,Vote,Vote for GP
+user_wu.php,Donations,Donate Wester Union 
